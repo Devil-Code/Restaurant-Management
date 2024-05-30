@@ -9,7 +9,7 @@ This is a simple Restaurant Management System GUI application built using Python
 - **Reset Functionality**: Users can reset the order form to start over.
 - **Exit Option**: Allows users to exit the application.
 
-![Alt Text](Image_URL)
+![Alt Text](screenshots/Activity.png)
 
 ## Prerequisites
 
@@ -40,14 +40,13 @@ This is a simple Restaurant Management System GUI application built using Python
 
 ## Screenshots
 
-![Alt Text](Image_URL)
+![Alt Text](screenshots/Admin_Login.png)
 
-![Alt Text](Image_URL)
+![Alt Text](screenshots/Registration.png)
 
-![Alt Text](Image_URL)
+![Alt Text](screenshots/Homepage.png)
 
-![Alt Text](Image_URL)
-
+![Alt Text](screenshots/Food_Menu.png)
 
 ## Contributing
 
