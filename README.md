@@ -56,6 +56,13 @@ Contributions are welcome! For major changes, please open an issue first to disc
 
 GNU GPL v3.0 License.
 
+## Contact Information
+
+For any inquiries or issues, please contact:
+- **Pritesh Gandhi**
+- **Email**: pgandhi1412@gmail.com
+- **GitHub**: [YourGitHubProfile](https://github.com/Devil-Code)
+
 ---
 
 Feel free to customize this template to better fit your project. Let me know if you need further assistance!
